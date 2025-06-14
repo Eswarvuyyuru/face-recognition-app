@@ -1,9 +1,7 @@
 streamlit
-opencv-python-headless==4.8.0.74
+opencv-python-headless
 numpy
 pandas
-insightface==0.7.3
+insightface
 streamlit-webrtc
 Pillow
-onnxruntime
-scipy
