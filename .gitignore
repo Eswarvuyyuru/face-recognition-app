@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+.env/
+.env*
+
+# OS
+.DS_Store
+
+# Logs & temp
+*.log
+*.tmp
+
+# Media
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# ML models
+*.onnx
+*.pt
+*.pth
+
+# Streamlit
+.streamlit/
+
+# Conda
+conda-meta/
